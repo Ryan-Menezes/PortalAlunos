@@ -1,0 +1,17 @@
+C:\Users\Ryan\Desktop\trabalhos\Projetos\PortalAlunos\PortalAlunos\bin\Debug\net6.0-windows\PortalAlunos.exe
+C:\Users\Ryan\Desktop\trabalhos\Projetos\PortalAlunos\PortalAlunos\bin\Debug\net6.0-windows\PortalAlunos.deps.json
+C:\Users\Ryan\Desktop\trabalhos\Projetos\PortalAlunos\PortalAlunos\bin\Debug\net6.0-windows\PortalAlunos.runtimeconfig.json
+C:\Users\Ryan\Desktop\trabalhos\Projetos\PortalAlunos\PortalAlunos\bin\Debug\net6.0-windows\PortalAlunos.dll
+C:\Users\Ryan\Desktop\trabalhos\Projetos\PortalAlunos\PortalAlunos\bin\Debug\net6.0-windows\PortalAlunos.pdb
+C:\Users\Ryan\Desktop\trabalhos\Projetos\PortalAlunos\PortalAlunos\obj\Debug\net6.0-windows\PortalAlunos.form1.resources
+C:\Users\Ryan\Desktop\trabalhos\Projetos\PortalAlunos\PortalAlunos\obj\Debug\net6.0-windows\PortalAlunos.Properties.Resources.resources
+C:\Users\Ryan\Desktop\trabalhos\Projetos\PortalAlunos\PortalAlunos\obj\Debug\net6.0-windows\PortalAlunos.csproj.GenerateResource.cache
+C:\Users\Ryan\Desktop\trabalhos\Projetos\PortalAlunos\PortalAlunos\obj\Debug\net6.0-windows\PortalAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Desktop\trabalhos\Projetos\PortalAlunos\PortalAlunos\obj\Debug\net6.0-windows\PortalAlunos.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\trabalhos\Projetos\PortalAlunos\PortalAlunos\obj\Debug\net6.0-windows\PortalAlunos.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\trabalhos\Projetos\PortalAlunos\PortalAlunos\obj\Debug\net6.0-windows\PortalAlunos.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\trabalhos\Projetos\PortalAlunos\PortalAlunos\obj\Debug\net6.0-windows\PortalAlunos.dll
+C:\Users\Ryan\Desktop\trabalhos\Projetos\PortalAlunos\PortalAlunos\obj\Debug\net6.0-windows\refint\PortalAlunos.dll
+C:\Users\Ryan\Desktop\trabalhos\Projetos\PortalAlunos\PortalAlunos\obj\Debug\net6.0-windows\PortalAlunos.pdb
+C:\Users\Ryan\Desktop\trabalhos\Projetos\PortalAlunos\PortalAlunos\obj\Debug\net6.0-windows\PortalAlunos.genruntimeconfig.cache
+C:\Users\Ryan\Desktop\trabalhos\Projetos\PortalAlunos\PortalAlunos\obj\Debug\net6.0-windows\ref\PortalAlunos.dll
