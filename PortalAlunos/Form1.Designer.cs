@@ -183,8 +183,10 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
+            FormBorderStyle = FormBorderStyle.FixedToolWindow;
+            MaximizeBox = false;
             Name = "form1";
-            Text = "Portal";
+            Text = "Portal do Aluno";
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ResumeLayout(false);
